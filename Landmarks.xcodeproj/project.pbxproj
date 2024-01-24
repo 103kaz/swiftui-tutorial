@@ -11,6 +11,7 @@
 		787E27AC2B5ACA82003E599D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 787E27AB2B5ACA82003E599D /* ContentView.swift */; };
 		787E27AE2B5ACA86003E599D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 787E27AD2B5ACA86003E599D /* Assets.xcassets */; };
 		787E27B12B5ACA86003E599D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 787E27B02B5ACA86003E599D /* Preview Assets.xcassets */; };
+		78B2CDF22B6163AD00B80AF5 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78B2CDF12B6163AD00B80AF5 /* CircleImage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		787E27AB2B5ACA82003E599D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		787E27AD2B5ACA86003E599D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		787E27B02B5ACA86003E599D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		78B2CDF12B6163AD00B80AF5 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,8 +53,9 @@
 		787E27A82B5ACA82003E599D /* Landmarks */ = {
 			isa = PBXGroup;
 			children = (
-				787E27A92B5ACA82003E599D /* LandmarksApp.swift */,
+				78B2CDF12B6163AD00B80AF5 /* CircleImage.swift */,
 				787E27AB2B5ACA82003E599D /* ContentView.swift */,
+				787E27A92B5ACA82003E599D /* LandmarksApp.swift */,
 				787E27AD2B5ACA86003E599D /* Assets.xcassets */,
 				787E27AF2B5ACA86003E599D /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				787E27AC2B5ACA82003E599D /* ContentView.swift in Sources */,
 				787E27AA2B5ACA82003E599D /* LandmarksApp.swift in Sources */,
+				78B2CDF22B6163AD00B80AF5 /* CircleImage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
