@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  Landmarks
 //
-//  Created by k.iwami on 2024/01/20.
+//  Created by kaz103 on 2024/01/20.
 //
 
 import SwiftUI
